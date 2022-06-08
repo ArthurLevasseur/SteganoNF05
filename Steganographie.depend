@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1609341116 source:c:\users\super\documents\devoirs\tc03\nf05\projet\stegano\steganographie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
+1609354565 source:c:\users\super\documents\devoirs\tc03\nf05\projet\stegano\projet steganographie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<string.h>
+
